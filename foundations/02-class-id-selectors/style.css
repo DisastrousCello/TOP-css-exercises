@@ -1,0 +1,19 @@
+.class1 {
+    background-color: #ff99ad;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#bleu {
+    color: #003366;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#green {
+    background-color: #d9ead3;
+    font-size: 24px;
+    font-weight: bold;
+}
